@@ -65,5 +65,6 @@ public class program_1 {
                 default:
                     break;
             }
+        scanner.close();
     }
 }
